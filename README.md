@@ -15,6 +15,7 @@ Microsoft Excel
 Pivot Tables
 Charts & Graphs
 Data Cleaning & Transformation
+etc
 
 🔹 Key Insights
 Identified factors influencing loan approval
